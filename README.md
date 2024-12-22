@@ -13,7 +13,7 @@ To see the live version of this project:
 1. Open your web browser.
 2. Visit the hosted link below.
 
-### [Hosted Link]https://dom-project1-namira.netlify.app/
+### [Hosted Link](https://dom-project1-namira.netlify.app/)
 
 
 
